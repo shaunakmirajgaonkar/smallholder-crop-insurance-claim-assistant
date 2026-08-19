@@ -1,0 +1,13 @@
+claim_id,farmer_record_code,crop_type,village,damage_date,report_date,area_affected_acres,damage_percent,cause_category,crop_stage,policy_reference_present,land_record_present,sowing_evidence_present,damage_photo_count,field_report_present,weather_evidence_present,harvest_estimate_present,notice_within_window,insurer_acknowledged,insurer_response_days,follow_up_status,review_status
+CLM001,FARMER-001,Soybean,Nandgaon,2026-07-18,2026-07-20,3.2,78,Heavy Rain,Flowering,True,True,True,6,True,True,True,True,True,8,Follow-up,Review
+CLM002,FARMER-002,Cotton,Khed,2026-07-05,2026-07-14,2.5,52,Hailstorm,Boll Formation,True,True,True,3,True,False,True,True,True,5,Acknowledged,Open
+CLM003,FARMER-003,Rice,Baramati,2026-08-01,2026-08-03,4.8,84,Flooding,Tillering,True,True,True,8,True,True,True,True,False,18,Pending Response,High Review
+CLM004,FARMER-004,Wheat,Shirur,2026-03-11,2026-03-22,1.8,35,Unseasonal Rain,Grain Filling,True,True,False,1,False,False,True,False,False,22,Evidence Collection,Open
+CLM005,FARMER-005,Onion,Daund,2026-02-16,2026-02-18,1.1,67,Disease,Bulb Development,True,True,True,4,True,False,True,True,True,6,Acknowledged,Review
+CLM006,FARMER-006,Maize,Indapur,2026-07-26,2026-07-29,5.4,91,Heavy Rain,Silking,True,True,True,10,True,True,True,True,True,4,Pending Response,High Review
+CLM007,FARMER-007,Groundnut,Manchar,2026-06-21,2026-06-25,2.0,44,Drought,Pegging,True,False,True,2,True,True,False,True,False,16,Evidence Collection,Open
+CLM008,FARMER-008,Sugarcane,Sangamner,2026-05-08,2026-05-12,6.2,29,Windstorm,Vegetative,False,True,True,1,False,False,False,False,False,30,Not Acknowledged,Needs Review
+CLM009,FARMER-009,Soybean,Ahmednagar,2026-07-10,2026-07-12,2.7,63,Heavy Rain,Flowering,True,True,True,5,True,True,False,True,True,10,Acknowledged,Review
+CLM010,FARMER-010,Cotton,Jalna,2026-07-30,2026-08-02,3.9,76,Hailstorm,Boll Formation,True,True,True,7,True,True,True,True,True,12,Pending Response,Open
+CLM011,FARMER-011,Bajra,Nashik,2026-06-02,2026-06-08,1.6,48,Drought,Flowering,True,True,True,2,False,True,True,True,False,20,Follow-up,Review
+CLM012,FARMER-012,Tomato,Pune,2026-08-05,2026-08-06,0.9,88,Heavy Rain,Fruit Development,True,True,True,9,True,True,True,True,True,3,Acknowledged,Open
